@@ -1,0 +1,20 @@
+# Polsia
+
+> Polsia is an autonomous AI business-management platform ("AI that runs your company while you sleep"). It deploys a set of specialized AI agents — business planning, competitor research, social media, ads, email outreach, customer support, code generation, finance, and deployment — coordinated by an orchestrator to run a company's day-to-day operations on a recurring schedule. Polsia is a hosted consumer/SMB SaaS product; it does not publish a public developer API, OpenAPI specification, SDKs, or MCP server at this time.
+
+This profile is maintained by the API Evangelist network. Polsia is tracked as a company (True Ventures / Sound Ventures portfolio), not as an API provider — there is no public API surface to describe.
+
+## Company
+- Website: https://polsia.com/
+- Live product overview: https://polsia.com/live
+- About: https://polsia.com/about
+- Blog: https://polsia.com/blog
+- Login: https://polsia.com/login
+
+## Legal
+- Terms of Service: https://polsia.com/terms
+- Privacy Policy: https://polsia.com/privacy
+
+## Notes
+- No public API, developer portal, documentation, or `/.well-known/` discovery surface was found as of 2026-07-20 (all probed paths returned 404).
+- A community repository (github.com/PolsiaAI/Polsia) reimplements a self-hosted variant; it is not first-party and is not treated as Polsia's official API.
